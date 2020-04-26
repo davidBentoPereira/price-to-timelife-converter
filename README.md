@@ -18,6 +18,14 @@ Then, you can :
 
 ### Presentation
 
-This is a CLI Price (€) to Time Life converter.
+This is a CLI program converting a price (in €) into the exact number of hours
+ needed to gain this money. Calculations are based on the French "net" SMIC
+ , meaning the minimum salary you can be paid in France once you paid all the
+  taxes.
 
-Example : 
+Example :
+![program running example](example.png)
+
+## Possible improvements
+- Checks input type (float) and ask to retry if it isn't the right type.
+- Add unit tests

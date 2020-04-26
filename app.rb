@@ -23,7 +23,8 @@ lifetime"
 end
 
 def seconds_to_units(seconds)
-  puts "If you work 8 hours a day, this means : " \
+  puts "If you work 8 hours a day, with french's minimum net wage, this means :
+ " \
   '%d working days, %d hours, %d minutes, %d seconds' %
       # the .reverse lets us put the larger units first for readability
       [8,60,60].reverse.inject([seconds]) {|result, unitsize|
