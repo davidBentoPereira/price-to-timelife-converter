@@ -15,6 +15,7 @@ This is a CLI program converting a price (in €) into the exact number of hours
   taxes.
 
 Example :
+
 ![program running example](example.png)
 
 ## Possible improvements
