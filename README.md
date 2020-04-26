@@ -14,7 +14,7 @@ This is a CLI program converting a price (in €) into the exact number of hours
  , meaning the minimum salary you can be paid in France once you paid all the
   taxes.
 
-Example :
+### Example :
 
 ![program running example](example.png)
 
