@@ -1,6 +1,4 @@
-# The Hacking Project (Week [i?] - Day [i?])
-
-## Project : [project_name?]
+## Price to Timelife Converter
 
 /!\ Be careful ! Configure the ruby version in Gemfile to adapt the program to your own ruby version /!\
 
@@ -16,7 +14,10 @@ To install the project, follow these steps :
 
 Then, you can :
 - Launch the program thanks to the command `ruby app.rb`
-
 - Use the code linter to get a clean code by using command `rubocop`
 
 ### Presentation
+
+This is a CLI Price (€) to Time Life converter.
+
+Example : 
